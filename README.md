@@ -1,0 +1,2 @@
+# nixstore
+nix store
